@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about ferromagnetic thermoplastic soft material based continuum. We systematically investigated the fundamental mechanisms of the self-graftable ferromagnetic soft continuums and provided several biomedical demonstrations to showcase the application values of self-grafting.'
-date: 2024-25
+date: 2024-12-23
 venue: 'Nature Communications'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
