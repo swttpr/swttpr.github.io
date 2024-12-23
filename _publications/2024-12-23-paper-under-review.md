@@ -6,8 +6,8 @@ permalink: /publication/2024-12-23-paper-under-review
 excerpt: 'This paper is about ferromagnetic thermoplastic soft material based continuum. We systematically investigated the fundamental mechanisms of the self-graftable ferromagnetic soft continuums and provided several biomedical demonstrations to showcase the application values of self-grafting.'
 date: 2024-12-23
 venue: 'Nature Communications'
-slidesurl: 'http://swttpr.github.io/files/slides1.pdf'
-paperurl: 'http://swttpr.github.io/files/paper1.pdf'
+#slidesurl: 'http://swttpr.github.io/files/slides1.pdf'
+#paperurl: 'http://swttpr.github.io/files/paper1.pdf'
 citation: 'Under Review'
 ---
 
