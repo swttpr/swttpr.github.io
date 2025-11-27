@@ -7,7 +7,7 @@ excerpt: 'This paper is about ferromagnetic thermoplastic soft material based co
 date: 2025-07-31
 venue: 'Nature Communications'
 #slidesurl: 'http://swttpr.github.io/files/slides1.pdf'
-paperurl: 'http://swttpr.github.io/files/Regrafting submillimeter-scale.pdf'
+paperurl: 'http://swttpr.github.io/files/Regrafting.pdf'
 citation: 'Yang, Y., Shi, W., Yang, B., Xiong, T., Li, Z. A., & Ren, H. (2025). Regrafting submillimeter-scale ferromagnetic soft continuums. Nature Communications, 16(1), 7023.'
 ---
 
