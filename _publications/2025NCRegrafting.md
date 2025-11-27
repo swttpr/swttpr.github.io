@@ -2,7 +2,7 @@
 title: "Regrafting submillimeter-scale ferromagnetic soft continuums"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-12-23-paper-under-review
+permalink: /publication/2025NCRegrafting
 excerpt: 'This paper is about ferromagnetic thermoplastic soft material based continuum. We systematically investigated the fundamental mechanisms of the self-graftable ferromagnetic soft continuums and provided several biomedical demonstrations to showcase the application values of self-grafting.'
 date: 2025-07-31
 venue: 'Nature Communications'
